@@ -39,13 +39,13 @@ pip install -r requirements.txt
 
 1. Clone this repo:
    bash
-   git clone https://github.com/yourusername/anarci_h3_extractor_chothia.git
+   git clone https://github.com/Irwan_In_Silico/anarci_h3_extractor_chothia.git
    cd anarci_h3_extractor_chothia
    
 
-2. Edit the script (or pass command-line args — *describe what your script actually expects*):
-   - Replace [your_label] with something like binder or non-binder for your dataset.
-   - Set the input file path to your ANARCI output.
+2. Edit the 'SETTINGS' in the script:
+   - Place [input_file] with your input file name
+   - Set ouput file name.
 
 3. Run the script:
    bash
