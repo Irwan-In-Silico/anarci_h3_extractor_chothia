@@ -71,4 +71,4 @@ A CSV file with the following columns:
 ## Notes
 
 - This script uses *Chothia* numbering. If you want IMGT numbering, check out the sister repo: [anarci_h3_extractor_imgt]
-- The label field is intentionally left for you to fill in because ANARCI doesn't provide binding information.
+
