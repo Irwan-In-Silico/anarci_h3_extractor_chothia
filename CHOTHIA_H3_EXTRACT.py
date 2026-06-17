@@ -2,10 +2,10 @@ import pandas as pd
 import re
 from pathlib import Path
 
-
+#=-=-=-SETTINGS=-=-=-=-=-=-=-=-=-=-
 input_file = "help/all_resultsCHOTHIA_H.csv"
 output_file = "all_resultsCHOTHIA_H3.csv"
-
+#=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 def is_chothia_h3_position(col):
     """
